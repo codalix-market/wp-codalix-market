@@ -2,20 +2,42 @@
   "name": "Codalix Market",
   "slug": "codalix-market",
   "version": "1.0.0",
-  "author": "<a href=\"https://yourwebsite.com\">Codalix</a>",
-  "author_profile": "https://yourwebsite.com",
+  "author": "<a href=\"https://codalixmarket.com\">Codalix</a>",
+  "author_profile": "https://codalixmarket.com",
+  "contributors": {
+    "codalix": {
+      "profile": "https://profiles.wordpress.org/codalix",
+      "avatar": "https://secure.gravatar.com/avatar/?s=32&d=mm&r=g",
+      "display_name": "Codalix"
+    }
+  },
   "requires": "5.0",
   "tested": "6.9",
   "requires_php": "7.4",
+  "compatibility": {},
+  "rating": 0,
+  "num_ratings": 0,
+  "ratings": {},
+  "downloaded": 0,
   "last_updated": "2026-04-05",
-  "homepage": "https://yourwebsite.com",
+  "added": "2026-04-05",
+  "homepage": "https://codalixmarket.com",
   "sections": {
-    "description": "Marketplace plugin for Codalix. Manage and install themes & plugins from Codalix Market.",
-    "changelog": "<h4>v1.0.0</h4><ul><li>Initial release</li></ul>"
+    "description": "Codalix Market allows you to manage, install, and update premium themes and plugins directly from Codalix Marketplace inside WordPress.",
+    "installation": "<ol><li>Upload the plugin zip file.</li><li>Activate the plugin.</li><li>Enter your Codalix API token.</li></ol>",
+    "changelog": "<h4>v1.0.0</h4><ul><li>Initial release</li><li>Marketplace integration</li><li>Plugin & theme installer</li></ul>"
   },
+  "short_description": "Manage Codalix Marketplace themes & plugins inside WordPress.",
   "download_link": "https://codalix-market.github.io/wp-codalix-market/dist/codalix-market.zip",
+  "last_updated": "2026-04-05",
+  "icons": {
+    "1x": "https://codalix-market.github.io/wp-codalix-market/dist/icon-128x128.png",
+    "2x": "https://codalix-market.github.io/wp-codalix-market/dist/icon-256x256.png"
+  },
   "banners": {
     "low": "https://codalix-market.github.io/wp-codalix-market/dist/banner-772x250.jpg",
     "high": "https://codalix-market.github.io/wp-codalix-market/dist/banner-1544x500.jpg"
-  }
+  },
+  "donate_link": "",
+  "external": true
 }
